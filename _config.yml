@@ -16,9 +16,9 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
-resume-url: https://drive.google.com/file/d/1g5bHkGBjQHxM0_7p3MaJWsCaqdzjp9JR/view?usp=sharing
+resume-url: 
 
 url: https://jakevastola.github.io/portfolio-site
 # your url: https://USERNAME.github.io
